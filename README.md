@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🎯 Shreya Makani
-
-👋 Hey, I'm Shreya! 📊 Data Engineer @ Softqube · 🤖 NLP & LLM pipelines · 🎓 Incoming M.A.C. (AI) @ Windsor University, Fall 2026
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=180&section=header&text=Shreya%20Makani&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20%2B%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-makani-879a3b344)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyamakani18@gmail.com)
@@ -38,10 +36,10 @@ Currently scoping 3 public projects spanning RAG/agents, classic ML, and a deplo
 ### 🧰 stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,java,cpp,r,tensorflow,sklearn,postgres,mongodb,mysql,aws,git,docker,tableau" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,postgres,mongodb,mysql,aws,git,docker,tableau" />
 </p>
 
-<p align="center"><sub>LangChain · LangGraph · Apache Spark · Databricks · GPT APIs · Power BI</sub></p>
+<p align="center"><sub>LangChain · LangGraph · Apache Spark · Databricks · GPT APIs · Power BI · scikit-learn · R</sub></p>
 
 <br>
 
