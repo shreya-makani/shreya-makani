@@ -98,6 +98,8 @@ Currently scoping 3 public projects spanning RAG/agents, classic ML, and a deplo
 
 <div align="center">
 
+<img width="55" height="45" alt="image" src="https://github.com/user-attachments/assets/70fba9ea-cdf7-4943-a5b3-ecb3367064ab" />
+
 if you're reading this far — let's just talk, my DMs are open 🤙
 
 ⭐ **shreya-makani** — turning data into decisions, one pipeline at a time 🚀
