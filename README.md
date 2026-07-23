@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=180&section=header&text=Shreya%20Makani&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20%2B%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=220&section=header&text=Shreya%20Makani&fontSize=38&fontColor=ffffff&fontAlignY=30&desc=Data%20%2B%20AI%20Engineer&descAlignY=52&descSize=16&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-makani-879a3b344)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyamakani18@gmail.com)
@@ -68,4 +68,38 @@ Currently scoping 3 public projects spanning RAG/agents, classic ML, and a deplo
 
 <div align="center">
 <sub>always up for a conversation about data engineering, NLP, or agentic systems — LinkedIn DMs open</sub>
+</div>
+
+<br>
+
+### 🎓 education
+
+| | | |
+|---|---|---|
+| 🇨🇦 | **Windsor University** | M.A.C. (AI) — 2026 → 2028 |
+| 🇮🇳 | **Sal Institute of Technology and Engineering Research** | B.E. Computer Engineering — 2018 → 2022 |
+
+<br>
+
+### 📍 currently
+
+- 🔨 Leading AI/ML development for a real-time media intelligence platform at Softqube
+- 🤖 Building 3 public projects mixing RAG, classic ML, and full-stack AI
+- 📦 Prepping for M.A.C. (AI) coursework at Windsor University this fall
+- 🤝 Always down to collaborate on something ambitious
+
+<br>
+
+### 🌐 find me
+
+[LinkedIn](https://www.linkedin.com/in/shreya-makani-879a3b344) · [Gmail](mailto:shreyamakani18@gmail.com)
+
+<br>
+
+<div align="center">
+
+if you're reading this far — let's just talk, my DMs are open 🤙
+
+⭐ **shreya-makani** — turning data into decisions, one pipeline at a time 🚀
+
 </div>
