@@ -61,19 +61,8 @@ Currently scoping 3 public projects spanning RAG/agents, classic ML, and a deplo
 
 ### 🐍 activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreya-makani/shreya-makani/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/shreya-makani/shreya-makani/output/github-contribution-grid-snake.svg" alt="contribution snake"/> </p> <p align="center"><sub>(this animates my contribution graph — one-time setup below, in the note I gave you separately)</sub></p> <br>
 
-<sub>(this animates my contribution graph — one-time setup below, in the note I gave you separately)</sub>
-
-<br>
-
-<div align="center">
-<sub>always up for a conversation about data engineering, NLP, or agentic systems — LinkedIn DMs open</sub>
-</div>
-
-<br>
 
 ### 🎓 education
 
