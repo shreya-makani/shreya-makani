@@ -44,13 +44,16 @@ Currently scoping 3 public projects spanning RAG/agents, classic ML, and a deplo
 <br>
 
 <details>
-<summary><b>📊 GitHub stats (click to expand)</b></summary>
+<summary><b>📊 snapshot (click to expand)</b></summary>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-makani&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-makani&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
+| | |
+|---|---|
+| 💼 Experience | 3+ years as a Data Engineer, Softqube Technologies |
+| 🤖 Core focus | NLP, LLM pipelines (LangChain/LangGraph), ETL at scale |
+| 📈 Impact | Recommendation engine → +40% engagement, +92% satisfaction |
+| 🏗️ Systems shipped | Real-time media-risk classifier, finance automation pipeline |
+| 🎓 Next | M.A.C. (AI), Windsor University — Fall 2026 |
 
 </details>
 
@@ -62,6 +65,15 @@ Currently scoping 3 public projects spanning RAG/agents, classic ML, and a deplo
   <img src="https://raw.githubusercontent.com/shreya-makani/shreya-makani/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </p>
 
+<sub>(this animates my contribution graph — one-time setup below, in the note I gave you separately)</sub>
+
+<br>
+
+<div align="center">
+<sub>always up for a conversation about data engineering, NLP, or agentic systems — LinkedIn DMs open</sub>
+</div>
+
+<br>
 
 ### 🎓 education
 
@@ -88,8 +100,6 @@ Currently scoping 3 public projects spanning RAG/agents, classic ML, and a deplo
 <br>
 
 <div align="center">
-
-<img width="55" height="45" alt="image" src="https://github.com/user-attachments/assets/70fba9ea-cdf7-4943-a5b3-ecb3367064ab" />
 
 if you're reading this far — let's just talk, my DMs are open 🤙
 
